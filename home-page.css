@@ -1,10 +1,11 @@
-header{
-	text-align: center;
-}
-p{
-	display: inline;
-}
-.centered-text{
-	text-align: center;
-}
 
+h1{
+	text-align: center;
+}
+h3{
+	text-align: center;
+
+}
+section.one, section{
+	margin: 50px 450px 50px 50px;
+}
