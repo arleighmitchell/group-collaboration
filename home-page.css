@@ -1,11 +1,17 @@
-
-h1{
+body {
+	vertical-align: center;
+	background-image: url("library.jpg");
+	background-size: cover;
+	}
+header{
 	text-align: center;
+	color: white;
+	font-family: "Courier New", monospace;
 }
 h3{
 	text-align: center;
-
 }
 section.one, section{
 	margin: 50px 450px 50px 50px;
+	font-family: "Courier New", monospace;
 }

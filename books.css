@@ -1,6 +1,10 @@
 h1{
 	text-align: center;
 }
-section{
+header {
+	font-family: "Courier New", monospace;
+}
+section {
+	font-family: "Courier New", monospace;
 	margin: 50px 450px 50px 50px;
 }
