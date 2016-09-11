@@ -8,12 +8,10 @@ header{
 	color: white;
 	font-family: "Courier New", monospace;
 }
-p{
-	display: inline;
-}
-.centered-text{
+h3{
 	text-align: center;
 }
-section {
+section.one, section{
+	margin: 50px 450px 50px 50px;
 	font-family: "Courier New", monospace;
 }
