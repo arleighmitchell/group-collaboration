@@ -14,4 +14,7 @@ h3{
 section.one, section{
 	margin: 50px 450px 50px 50px;
 	font-family: "Courier New", monospace;
+	color: white;
+	font-size: 20px;
+	text-outline: 2px black;
 }
