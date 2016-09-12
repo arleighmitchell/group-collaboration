@@ -1,6 +1,7 @@
 body {
   vertical-align: center;
-  background-color: #905000;
+  background-image: url("../images/library.jpg");
+  background-size: cover;
 }
 header{
   text-align: center;
